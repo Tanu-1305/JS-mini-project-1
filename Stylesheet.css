@@ -54,7 +54,7 @@
 }
 
 .playerO {
-    color: #f4f6f8;
+    color: #1479dd;
 }
 
 .controls {
@@ -66,7 +66,7 @@
 }
 
 .controls button {
-    color: rgb(34, 193, 37);
+    color: rgb(193, 98, 34);
     padding: 8px;
     border-radius: 8px;
     border: none;
@@ -76,9 +76,9 @@
 }
 
 .restart {
-    background-color: #2ab674;
+    background-color: #131816;
 }
 
 #reset {
-    background-color: #d6c508;
+    background-color: #adf77d;
 }
